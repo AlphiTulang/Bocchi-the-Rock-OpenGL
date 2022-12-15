@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\T85\BocchiTheRock\BocchiTheRock\Source.cpp(1269,2): warning C4551: function call missing argument list
+D:\T85\BocchiTheRock\BocchiTheRock\Source.cpp(1284,2): warning C4551: function call missing argument list
+  BocchiTheRock.vcxproj -> D:\T85\BocchiTheRock\Debug\BocchiTheRock.exe
